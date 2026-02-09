@@ -1,0 +1,282 @@
+{
+  "company_info": {
+    "name": "VIHAAN ENGINEERS",
+    "tagline": "Smart solutions for Smart Buildings",
+    "established_since": "2020",
+    "overview": "Vihaan Engineers is a multidisciplinary engineering and construction company dedicated to delivering high-quality, technology-driven, and sustainable infrastructure solutions. We adopt advanced technology and efficient workflows to ensure precision in every project.",
+    "managing_director": {
+      "name": "Arunkumar.M",
+      "qualification": "B.E Civil",
+      "experience": "14+ years",
+      "bio": "Expertise in administration and implementation of innovative execution with high technical support."
+    },
+    "sectors": [
+      "Industrial",
+      "Institutional",
+      "Residential",
+      "Commercial"
+    ],
+    "operational_locations": [
+      "Bengaluru",
+      "Andhra Pradesh",
+      "Chennai",
+      "Hosur",
+      "Salem"
+    ],
+    "contact_details": {
+      "address": "Near Sandhya Talkies, NO.15, 5th Cross, VP Road, Old Madiwala, Bangalore Urban, Karnataka, 560068, India",
+      "phone": [
+        "+91 9600434775",
+        "+91 7337797127"
+      ],
+      "email": "vihaanengineers20@gmail.com",
+      "whatsapp": "+91 9600434775",
+      "call": "+91 7337797127"
+    },
+    "services": [
+      "Civil Construction",
+      "Pre-Engineered Buildings (PEB)",
+      "MEP (Mechanical, Electrical & Plumbing)",
+      "Interior",
+      "Renovation"
+    ],
+    "team": {
+      "head_office": [
+        {
+          "name": "R. Ramesh",
+          "role": "Manager (Operations)",
+          "qualification": "B.E Civil",
+          "exp": "14+ years"
+        },
+        {
+          "name": "A. Swapna",
+          "role": "Accounts",
+          "qualification": "B.Com",
+          "exp": "10+ years"
+        },
+        {
+          "name": "V. Mathaiyan",
+          "role": "Purchase / Procurement Manager",
+          "qualification": "BA Economics",
+          "exp": "17+ years"
+        },
+        {
+          "name": "R. Parimaladevi",
+          "role": "Asst. Accounts",
+          "qualification": "B.Sc",
+          "exp": "3+ years"
+        }
+      ],
+      "project_team": [
+        {
+          "name": "M. Muthukumar",
+          "role": "Manager (Projects)",
+          "qualification": "DCE",
+          "exp": "17+ years"
+        },
+        {
+          "name": "L. Raja",
+          "role": "MEP Manager (Projects)",
+          "qualification": "B.E EEE",
+          "exp": "10+ years"
+        },
+        {
+          "name": "L. Venkatesh",
+          "role": "Senior Engineer (Projects)",
+          "qualification": "DCE",
+          "exp": "12+ years"
+        },
+        {
+          "name": "P. Dhivakar",
+          "role": "Project Engineer",
+          "qualification": "DCE",
+          "exp": "8+ years"
+        },
+        {
+          "name": "M. Ajin",
+          "role": "Project Engineer",
+          "qualification": "DCE",
+          "exp": "4+ years"
+        }
+      ]
+    }
+  },
+  "projects": [
+    {
+      "id": "p-001",
+      "slug": "recycle-plant-nova-engineering-koramangala",
+      "title": "Recycle Plant Construction",
+      "location": "Koramangala, Bengaluru",
+      "category": "Industrial",
+      "description": "Construction of Recycle Plant for NOVA ENGINEERING SERVICE LLP. Floor area 26,707 Sft catering to Transfer station PEB, AWS PEB, and RCC infrastructure.",
+      "client": "Parishuth Ventures",
+      "metrics": {
+        "value": "Rs. 1.02 CR",
+        "area": "26,707 Sft",
+        "duration": "6 Months"
+      },
+      "images": [
+        "/projects/recycle-plant-nova-engineering-koramangala.jpg"
+      ]
+    },
+    {
+      "id": "p-002",
+      "slug": "sss-dojo-room-renovation-bommasandra",
+      "title": "SSS DOJO Room Renovation",
+      "location": "Bommasandra, Bengaluru",
+      "category": "Industrial",
+      "description": "Renovation of DOJO Centre including PEB Shed, Epoxy flooring, ACP cladding, and complete interior/electrical works.",
+      "client": "M/s STUMPP SCHEULE SOMAPPA SPRINGS PVT LTD",
+      "metrics": {
+        "value": "Rs. 47.5 Lakhs",
+        "area": "3,200 Sft",
+        "duration": "4 Months"
+      },
+      "images": [
+        "/projects/sss-dojo-room-renovation-bommasandra.jpg"
+      ]
+    },
+    {
+      "id": "p-003",
+      "slug": "mrh-security-block-powder-burning-anantapur",
+      "title": "MRH Powder Burning & Security Block",
+      "location": "Anantapur, Andhra Pradesh",
+      "category": "Industrial",
+      "description": "Construction of Security blocks, Kiosks, and Powder Burning PEB shed including structural steel and finishing works.",
+      "client": "MACHANI RAMESH HOLDINGS & CO",
+      "metrics": {
+        "value": "Rs. 259 Lakhs",
+        "area": "Phase-1",
+        "duration": "8 Months"
+      },
+      "images": [
+        "/projects/mrh-security-block-powder-burning-anantapur.jpg"
+      ]
+    },
+    {
+      "id": "p-004",
+      "slug": "nk-ramesh-residential-house-chandapura",
+      "title": "N.K Ramesh House Construction",
+      "location": "Chandapura, Bangalore",
+      "category": "Residential",
+      "description": "G+3 Floors residential construction including civil, electrical, plumbing, and high-end interior finishing.",
+      "client": "N.K Ramesh",
+      "metrics": {
+        "value": "Rs. 133 Lakhs",
+        "area": "7,200 Sqft",
+        "duration": "8 Months"
+      },
+      "images": [
+        "/projects/nk-ramesh-residential-house-chandapura.jpg"
+      ]
+    },
+    {
+      "id": "p-005",
+      "slug": "chitibabu-residential-house-neraluru",
+      "title": "Chitibabu R House Construction",
+      "location": "Neraluru, Bangalore",
+      "category": "Residential",
+      "description": "G+2 Floors residential construction with comprehensive civil and MEP services.",
+      "client": "R. Chitibabu",
+      "metrics": {
+        "value": "Rs. 57 Lakhs",
+        "area": "3,500 Sqft",
+        "duration": "6 Months"
+      },
+      "images": [
+        "/projects/chitibabu-residential-house-neraluru.jpg",
+        "/projects/chitibabu-residential-house-neraluru-1.jpg"
+      ]
+    },
+    {
+      "id": "p-006",
+      "slug": "murali-krishnan-house-lukkur",
+      "title": "Murali Krishnan House Construction",
+      "location": "Lukkur, Bangalore",
+      "category": "Residential",
+      "description": "G+1 Floors residential build including interiors and all finishing works.",
+      "client": "MuraliKrishnan",
+      "metrics": {
+        "value": "Rs. 50 Lakhs",
+        "area": "2,400 Sqft",
+        "duration": "6 Months"
+      },
+      "images": [
+        "/projects/murali-krishnan-house-lukkur.jpg",
+        "/projects/murali-krishnan-house-lukkur-1.jpg"
+      ]
+    },
+    {
+      "id": "p-007",
+      "slug": "aisats-tata-projects-international-airport",
+      "title": "AISATS TATA PROJECTS",
+      "location": "International Airport, Bangalore",
+      "category": "Commercial",
+      "description": "Finishing works including toilet cubicles, internal/external plumbing, and texture painting for large scale logistics park.",
+      "client": "AISATS TATA PROJECTS",
+      "metrics": {
+        "value": "Rs. 1.45 CR",
+        "area": "156,020 Sqft",
+        "duration": "9 Months"
+      },
+      "images": [
+        "/projects/aisats-tata-projects-international-airport.jpg",
+        "/projects/aisats-tata-projects-international-airport-1.jpg",
+        "/projects/aisats-tata-projects-international-airport-2.jpg"
+      ]
+    },
+    {
+      "id": "p-008",
+      "slug": "mro-hangar-tata-projects-bangalore",
+      "title": "MRO-HANGAR TATA PROJECTS",
+      "location": "International Airport, Bangalore",
+      "category": "Commercial",
+      "description": "Construction of Labour Camp and specialized plumbing works for aviation hangar project.",
+      "client": "MRO-HANGAR AIR INDIA",
+      "metrics": {
+        "value": "Rs. 25 Lakhs",
+        "area": "31,000 Sqft",
+        "duration": "2 Months"
+      },
+      "images": [
+        "/projects/mro-hangar-tata-projects-bangalore.jpg",
+        "/projects/mro-hangar-tata-projects-bangalore-1.jpg"
+      ]
+    },
+    {
+      "id": "p-009",
+      "slug": "mre-main-building-scrap-yard-chennai",
+      "title": "MRE Main Building & Scrap Yard",
+      "location": "Chennai, Tamil Nadu",
+      "category": "Industrial",
+      "description": "Construction of Main Building and Scrap yard PEB shed including structural steel and erection.",
+      "client": "MACHANI RAMESH ENGINEERING PVT LTD",
+      "metrics": {
+        "value": "Rs. 1.05 CR",
+        "area": "Phase-2",
+        "duration": "8 Months"
+      },
+      "images": [
+        "/projects/mre-main-building-scrap-yard-chennai.jpg",
+        "/projects/mre-main-building-scrap-yard-chennai-1.jpg"
+      ]
+    },
+    {
+      "id": "p-010",
+      "slug": "hal-museum-renovation-bangalore",
+      "title": "HAL Museum Renovation",
+      "location": "Old Airport Road, Bangalore",
+      "category": "Institutional",
+      "description": "Renovation works for Museum Halls 1, 2, and 3 including tiling, glass doors, and specialized finishing.",
+      "client": "Hindustan Aeronautical Limited (HAL)",
+      "metrics": {
+        "value": "Rs. 50 Lakhs",
+        "area": "N/A",
+        "duration": "1.5 Months"
+      },
+      "images": [
+        "/projects/hal-museum-renovation-bangalore.jpg"
+      ]
+    }
+  ]
+}

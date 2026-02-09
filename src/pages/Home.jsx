@@ -376,7 +376,7 @@ const Home = () => {
                      <div className="relative group">
                         <div className="absolute inset-0 bg-blue-500 rounded-[2rem] rotate-3 opacity-20 group-hover:rotate-6 transition-transform duration-500"></div>
                         <div className="aspect-[4/5] rounded-[2rem] overflow-hidden shadow-2xl relative">
-                           <img src="/md.jpg" alt="Arunkumar M" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" />
+                           <img src="/md.png" alt="Arunkumar M" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" />
 
                            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent"></div>
                            <div className="absolute bottom-8 left-8">

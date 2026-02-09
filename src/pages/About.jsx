@@ -143,7 +143,7 @@ export default function About() {
                         <div className="w-64 h-64 lg:w-80 lg:h-80 flex-shrink-0 relative group">
                             <div className="absolute inset-0 bg-blue-600 translate-x-4 translate-y-4 rounded-2xl group-hover:translate-x-2 group-hover:translate-y-2 transition-transform duration-500" />
                             <img
-                                src="/md.jpg"
+                                src="/md.png"
                                 alt={company_info.managing_director.name}
                                 className="relative w-full h-full object-cover rounded-2xl border-2 border-white shadow-xl"
                             />

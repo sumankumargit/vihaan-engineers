@@ -10,7 +10,7 @@ export default function SEO({
 }) {
     const siteTitle = 'VIHAAN ENGINEERS';
     const fullTitle = title ? `${title} | ${siteTitle}` : siteTitle;
-    const siteUrl = 'https://vihaanengineers.com'; // Replace with actual domain
+    const siteUrl = 'https://vihaan-engineers.in'; // Replace with actual domain
     const fullCanonical = canonical ? `${siteUrl}${canonical}` : siteUrl;
     const defaultImage = `${siteUrl}/logo.png`;
 
